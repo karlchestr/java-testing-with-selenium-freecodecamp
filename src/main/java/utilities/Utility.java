@@ -11,9 +11,9 @@ public class Utility {
         driver = BasePage.driver;
     }
 
-    // Utility class is use to assist different class that has the same function
+    // Utility class is used to assist different class that has the same function
 
     // Ex
-    // Generate a Randome Number
+    // Generate a Random Number
     // Return Strings to UpperCase
 }
